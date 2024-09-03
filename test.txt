@@ -1,0 +1,15 @@
+Chicken_Thighs 999999
+Shrimp 2
+Tofu 5
+Pork_Belly 4
+Fish_Balls 11
+Enoki_Mushrooms 7
+Napa_Cabbage 8
+Udon_Noodles 10
+Wagyu_Beef 1
+Clams 12
+Spinach 3
+Crab_Sticks 6
+Sweet_Corn 14
+Squid_13
+Lamb_Shoulder 15

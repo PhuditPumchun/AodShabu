@@ -1,0 +1,14 @@
+Wagyu_Beef : 1
+Shrimp : 2
+Spinach : 3
+Pork_Belly : 4
+Tofu : 5
+Crab_Sticks : 6
+Enoki_Mushrooms : 7
+Napa_Cabbage : 8
+Clams : 9
+Udon_Noodles : 10
+Fish_Balls : 11
+Sweet_Corn : 14
+Weed : 95
+Chicken_Thighs : 999999
