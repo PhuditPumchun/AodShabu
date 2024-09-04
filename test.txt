@@ -1,4 +1,4 @@
-Chicken_Thighs 999999
+Chicken_Thighs 22
 Shrimp 2
 Tofu 5
 Pork_Belly 4
